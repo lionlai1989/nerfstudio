@@ -124,6 +124,8 @@ To keep the fork aligned with the official `nerfstudio` repository, rebase the b
     git push origin --force
     ```
 
+Enjoy the perfect linear git commit history!
+
 References:
 - [stackoverflow: How do I update or sync a forked repository on GitHub?
   ](https://stackoverflow.com/questions/7244321/how-do-i-update-or-sync-a-forked-repository-on-github)
